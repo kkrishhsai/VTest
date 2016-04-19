@@ -1,2 +1,2 @@
 # VTest
-VTest android app 
+VTest android app development board
